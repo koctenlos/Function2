@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\bin\Debug\net6.0\DZ2.exe
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\bin\Debug\net6.0\DZ2.deps.json
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\bin\Debug\net6.0\DZ2.runtimeconfig.json
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\bin\Debug\net6.0\DZ2.dll
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\bin\Debug\net6.0\DZ2.pdb
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\DZ2.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\DZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfo.cs
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\DZ2.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\DZ2.dll
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\refint\DZ2.dll
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\DZ2.pdb
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\DZ2.genruntimeconfig.cache
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ2\obj\Debug\net6.0\ref\DZ2.dll
