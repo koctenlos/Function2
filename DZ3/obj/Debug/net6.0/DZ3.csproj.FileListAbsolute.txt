@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\bin\Debug\net6.0\DZ3.exe
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\bin\Debug\net6.0\DZ3.deps.json
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\bin\Debug\net6.0\DZ3.runtimeconfig.json
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\bin\Debug\net6.0\DZ3.dll
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\bin\Debug\net6.0\DZ3.pdb
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\DZ3.dll
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\refint\DZ3.dll
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\DZ3.pdb
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+C:\Users\Danil\Desktop\GB\C# seminar 3\DZ3\obj\Debug\net6.0\ref\DZ3.dll
